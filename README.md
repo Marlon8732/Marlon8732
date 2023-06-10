@@ -14,7 +14,8 @@ Me gusta la informatica y la fotografia, por eso estoy estudiando informatica ed
 - [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto 2.
 
 ## Insignias
-<img src="https://csharp.net/wp-content/uploads/2018/05/csharp_logo.png" alt="C# Icon" width="50" height="50">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Icon" width="50" height="50">
 
 <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Icon" width="50" height="50">
 
