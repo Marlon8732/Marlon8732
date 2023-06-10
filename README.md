@@ -14,16 +14,12 @@ Me gusta la informatica y la fotografia, por eso estoy estudiando informatica ed
 - [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto 2.
 
 ## Insignias
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Icon" width="50" height="50">
-
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Icon" width="50" height="50">
-
 Aquí puedes mostrar tus insignias, logros o certificaciones relacionadas con C#:
 
-- ![Insignia 1](enlace-a-insignia-1)
-- ![Insignia 2](enlace-a-insignia-2)
-- ![Insignia 3](enlace-a-insignia-3)
+- ![Insignia 1] <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Icon" width="50" height="50">
+
+- ![Insignia 2] <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Icon" width="50" height="50">
+
 
 ## Experiencia
 
