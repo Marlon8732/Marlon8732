@@ -24,10 +24,7 @@ Aquí puedes mostrar tus insignias, logros o certificaciones relacionadas con C#
 
 ## Experiencia
 
-- Empresa 1: Cargo, fechas.
-  - Descripción de tus responsabilidades y logros.
-- Empresa 2: Cargo, fechas.
-  - Descripción de tus responsabilidades y logros.
+- 
 
 ## Educación
 
@@ -35,10 +32,7 @@ Aquí puedes mostrar tus insignias, logros o certificaciones relacionadas con C#
 
 ## Habilidades
 
-- Habilidad 1
-- Habilidad 2
-- Habilidad 3
-
+- 
 ## Contacto
 
 - Correo electrónico: [marlon_davil@yahoo.com](marlon_davil@yahoo.com)
